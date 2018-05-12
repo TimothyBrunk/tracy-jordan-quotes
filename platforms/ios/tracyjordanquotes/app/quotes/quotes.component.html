@@ -1,0 +1,19 @@
+<ActionBar title="Tracy Jordan Quotes" class="action-bar">
+</ActionBar>
+<GridLayout>
+	<ScrollView class="page">
+		<StackLayout class="home-panel">
+      <!--Add your page content here-->
+      <Image src="~/images/tracyjordan.png" stretch="aspectFill"></Image>
+      <Label textWrap="true" text="Tracy Jordan's Random Quote" id="title"></Label>
+
+      <Label textWrap="true" [text]="quote" id="title"></Label>
+
+      <Button text="Get A New Quote" (tap)="onNewQuote()"></Button>
+
+      
+  
+
+		</StackLayout>
+	</ScrollView>
+</GridLayout>

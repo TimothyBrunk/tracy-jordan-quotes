@@ -1,0 +1,1 @@
+/Users/timothybrunk/Library/Developer/Xcode/DerivedData/tracyjordanquotes-glwfgnpqubilfsaiwwaojrbdskxw/Build/Intermediates.noindex/ArchiveIntermediates/tracyjordanquotes/InstallationBuildProductsLocation/Applications/tracyjordanquotes.app
