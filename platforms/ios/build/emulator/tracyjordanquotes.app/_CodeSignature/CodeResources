@@ -202,7 +202,7 @@
 		</data>
 		<key>app/app.module.js</key>
 		<data>
-		bCYXoZ+nIz7N3cKxBXgznU2Zqsw=
+		jyjkC5WV/yKMoLpOiv6/Ot/vf5w=
 		</data>
 		<key>app/app.module.ngfactory.d.ts</key>
 		<data>
@@ -210,7 +210,7 @@
 		</data>
 		<key>app/app.module.ts</key>
 		<data>
-		MeYbH5MrvA4K99mxR7bT3Ix0fGc=
+		PFlt+Wvo/+qLec/xM0WpVvYNqVU=
 		</data>
 		<key>app/app.routing.js</key>
 		<data>
@@ -223,6 +223,10 @@
 		<key>app/images/tracyjordan.png</key>
 		<data>
 		sDY4KQ7HSPXkL2/gWcOOizWD3Eg=
+		</data>
+		<key>app/images/tracyjordanwallpaper.png</key>
+		<data>
+		+Z93cp7BxRSHJzc7Bm0nHumxNeI=
 		</data>
 		<key>app/main.aot.js</key>
 		<data>
@@ -254,11 +258,11 @@
 		</data>
 		<key>app/quotes/quotes.component.html</key>
 		<data>
-		Ok9FoMlS85/dfH0ny4iNq7/+hRQ=
+		FhL9oZ4HECgV4BrRuuukjo+7iX8=
 		</data>
 		<key>app/quotes/quotes.component.js</key>
 		<data>
-		drnvtpLrkkEiyvPXESYRFDepeIY=
+		oGl/v5/Eskca2j+OaB6gaBcDuZo=
 		</data>
 		<key>app/quotes/quotes.component.scss</key>
 		<data>
@@ -266,15 +270,15 @@
 		</data>
 		<key>app/quotes/quotes.component.ts</key>
 		<data>
-		jgPVimgO4R2ywB4nwEd8+Ys/6a4=
+		W0ddCaec5homfG2v7VTYC8i4OBc=
 		</data>
 		<key>app/quotes/quotes.service.js</key>
 		<data>
-		BwvZyqxCkod4QgAg25lzqOGPb6o=
+		Zor7F+Ce1OKYkp+TuQLDd6ecKuQ=
 		</data>
 		<key>app/quotes/quotes.service.ts</key>
 		<data>
-		u6+z5LDCdJcB3DhFRL6ucrRJdtY=
+		SUTh2bMiqQHLqYUJfcQmxsZ5OmE=
 		</data>
 		<key>app/tns_modules/@angular/animations/README.md</key>
 		<data>
@@ -34117,11 +34121,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			bCYXoZ+nIz7N3cKxBXgznU2Zqsw=
+			jyjkC5WV/yKMoLpOiv6/Ot/vf5w=
 			</data>
 			<key>hash2</key>
 			<data>
-			rrAyzJ2ueQVZuBb1TM1lb6qENGgBRM3oWtYyjJbVDrI=
+			xO0/2uOZtcksxbu4hQ19nqF9Mv77uehhZ8lT9fVOVK0=
 			</data>
 		</dict>
 		<key>app/app.module.ngfactory.d.ts</key>
@@ -34139,11 +34143,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			MeYbH5MrvA4K99mxR7bT3Ix0fGc=
+			PFlt+Wvo/+qLec/xM0WpVvYNqVU=
 			</data>
 			<key>hash2</key>
 			<data>
-			XtpOwplzhdJKCGRKNl8f89goOu7ehjntVF9ThYCOKW4=
+			iOOxeiff9ECgKa5AsfsFOmSwWhRndBLTEAvVM9o2M6U=
 			</data>
 		</dict>
 		<key>app/app.routing.js</key>
@@ -34177,6 +34181,17 @@
 			<key>hash2</key>
 			<data>
 			yAIFIZuf2f1Zep/IggBuhT/LR8UaNlwiuqWh4DyIoDo=
+			</data>
+		</dict>
+		<key>app/images/tracyjordanwallpaper.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			+Z93cp7BxRSHJzc7Bm0nHumxNeI=
+			</data>
+			<key>hash2</key>
+			<data>
+			ktw90ox3U63Ismx/t0FhSAgZ2FYPQ6ia/H0MtcoZBvk=
 			</data>
 		</dict>
 		<key>app/main.aot.js</key>
@@ -34260,22 +34275,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Ok9FoMlS85/dfH0ny4iNq7/+hRQ=
+			FhL9oZ4HECgV4BrRuuukjo+7iX8=
 			</data>
 			<key>hash2</key>
 			<data>
-			3kxNSYM4RRLVn0A8/92W+sc2AkLJ0d8m2Cy0eF5QoOY=
+			m7DVBVzVQr+loipq5pTI0tevjQIZ+mu2+XsDZtcLGMs=
 			</data>
 		</dict>
 		<key>app/quotes/quotes.component.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			drnvtpLrkkEiyvPXESYRFDepeIY=
+			oGl/v5/Eskca2j+OaB6gaBcDuZo=
 			</data>
 			<key>hash2</key>
 			<data>
-			39lF05B82R/GIyI2feRqezJmduVTaJD6R5FBf8n9FdM=
+			UgHYXuV+KQIqv7VuwexTwRD7q8OgXqjOKzzhFk+Km2o=
 			</data>
 		</dict>
 		<key>app/quotes/quotes.component.scss</key>
@@ -34293,33 +34308,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			jgPVimgO4R2ywB4nwEd8+Ys/6a4=
+			W0ddCaec5homfG2v7VTYC8i4OBc=
 			</data>
 			<key>hash2</key>
 			<data>
-			sV4N4SlD7Oe4hVGDOG+GHQWtyJywK/IW5AR28MvMYO4=
+			5cgx2l+CIkuGs9K6JG/l4/OQQk2kjCc8epXPybx5fqo=
 			</data>
 		</dict>
 		<key>app/quotes/quotes.service.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			BwvZyqxCkod4QgAg25lzqOGPb6o=
+			Zor7F+Ce1OKYkp+TuQLDd6ecKuQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			NO5WkyHLrjpzOUSxaSiLy227yzdEdM4TFStEBrCaV2A=
+			jXjGhnngJn6jlBsoN+8oPmwrMX+HcjQHRqHgOqCFE28=
 			</data>
 		</dict>
 		<key>app/quotes/quotes.service.ts</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			u6+z5LDCdJcB3DhFRL6ucrRJdtY=
+			SUTh2bMiqQHLqYUJfcQmxsZ5OmE=
 			</data>
 			<key>hash2</key>
 			<data>
-			Q33v1VxqDt9RfBqUQ126l/dAlYzTX50nv+p1NheXWYY=
+			0uH97rrmi3uf2tp716CkKiCo5sgv2EEue9PzH1j8rR0=
 			</data>
 		</dict>
 		<key>app/tns_modules/@angular/animations/README.md</key>

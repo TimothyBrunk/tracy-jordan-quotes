@@ -11,11 +11,22 @@ import { Quote } from './quote';
 })
 export class QuotesComponent implements OnInit {
 
-  private quote : Quote; 
+  private quote : string = ""; 
 
   constructor(private _quotesService : QuotesService) { }
 
   ngOnInit(): void { 
     this.quote = this._quotesService.getRandomQuote(); 
+  }
+
+  onNewQuote(): void{
+
+    let newQuote = this._quotesService.getRandomQuote(); 
+
+    while(newQuote === this.quote)
+    {
+      newQuote = this._quotesService.getRandomQuote();
+    }
+    this.quote = newQuote; 
   }
 }

@@ -17,20 +17,16 @@ export class QuotesComponent implements OnInit {
 
   ngOnInit(): void { 
     this.quote = this._quotesService.getRandomQuote(); 
-    console.log(this.quote); 
-    this.quote = "Random 1"; 
   }
 
   onNewQuote(): void{
 
     let newQuote = this._quotesService.getRandomQuote(); 
 
-    if(newQuote !== this.quote)
+    while(newQuote === this.quote)
     {
-      this.quote = newQuote; 
+      newQuote = this._quotesService.getRandomQuote();
     }
-
-    console.log(this.quote); 
-    
+    this.quote = newQuote; 
   }
 }

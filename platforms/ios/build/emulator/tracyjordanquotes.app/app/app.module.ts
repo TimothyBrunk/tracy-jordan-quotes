@@ -4,6 +4,7 @@ import { AppRoutingModule } from "./app.routing";
 import { AppComponent } from "./app.component";
 
 import {QuotesComponent} from "../app/quotes/quotes.component"; 
+import { QuotesService } from "~/quotes/quotes.service";
 
 
 // Uncomment and add to NgModule imports if you need to use two-way binding
@@ -26,7 +27,7 @@ import {QuotesComponent} from "../app/quotes/quotes.component";
     
     ],
     providers: [
-       
+       QuotesService,
     ],
     schemas: [
         NO_ERRORS_SCHEMA

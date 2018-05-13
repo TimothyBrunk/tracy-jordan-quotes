@@ -20,7 +20,6 @@ private quoteObject = new Array<Quote> (
   }
 
   getRandomQuote(): string {
-  
 
     return this.quotes[Math.floor(Math.random()*this.quotes.length)]; 
   

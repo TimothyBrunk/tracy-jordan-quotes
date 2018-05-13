@@ -4,9 +4,14 @@
 	<ScrollView class="page">
 		<StackLayout class="home-panel">
       <!--Add your page content here-->
-      <Image src="~/images/tracyjordan.png" stretch="aspectFill"></Image>
+      <Image src="~/images/tracyjordanwallpaper.png" stretch="aspectFill"></Image>
       <Label textWrap="true" text="Tracy Jordan's Random Quote" id="title"></Label>
-      <Label textWrap="true" text={{quote}} id="title"></Label>
+
+      <Label textWrap="true" [text]="quote" id="title"></Label>
+
+      <Button text="Get A New Quote" (tap)="onNewQuote()" class="btn btn-primary"></Button>
+
+      
   
 
 		</StackLayout>
