@@ -5,9 +5,10 @@ import { Quote } from '~/quotes/quote';
 export class QuotesService {
 
   private quotes = new Array<string>(
-   "You look good, like a solid gold candy bar.",
-   "Let me just say, it's a pleasure to be here. It's an honor for you to meet me.",
-   "I also have a character named Ching Chong, who likes to play ping pong. I jsut made that up right now."
+   "You look good, like a solid gold candy bar. - Tracy Jordan",
+   "Let me just say, it's a pleasure to be here. It's an honor for you to meet me. - Tracy Jordan",
+   "I also have a character named Ching Chong, who likes to play ping pong. I just made that up right now.",
+   "Live everyweek, like it's Shark Week."
   )
 
   getQuotes(): string[]{
