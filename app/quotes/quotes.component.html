@@ -1,23 +1,11 @@
 <ActionBar title="Tracy Jordan Quotes" class="action-bar">
 </ActionBar>
-<GridLayout>
-	<ScrollView class="page">
-		<StackLayout class="home-panel">
-      <!--Add your page content here-->
-      <Image src="~/images/tracyjordanwallpaper.png" stretch="aspectFill"></Image>
-      <Label textWrap="true" text="Tracy Jordan's Random Quote" id="title"></Label>
 
-      <Label textWrap="true" [text]="quote" id="title"></Label>
+    <FlexboxLayout flexDirection="column-reverse" justifyContent="space-around" alignItems="stretch">
+    <Button text="Get A New Quote" (tap)="onNewQuote()" class="btn btn-primary btn-rounded-lg" ></Button>
+           
+    <Label textWrap="true" [text]="quote" id="quoteText"></Label>
 
+    <Image src="~/images/tracyjordanwallpaper.png" stretch="aspectFit"></Image>
 
-
-
-
-      <Button text="Get A New Quote" (tap)="onNewQuote()" class="btn btn-primary vertical" id="quoteButton"></Button>
-
-      
-  
-
-		</StackLayout>
-	</ScrollView>
-</GridLayout>
+    </FlexboxLayout>
